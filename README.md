@@ -1,4 +1,4 @@
 coursera-posa
 =============
 
-Assignments from coursera posa couresa https://www.coursera.org/course/posa
+Assignments from coursera posa course https://www.coursera.org/course/posa
